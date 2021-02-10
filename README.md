@@ -6,6 +6,8 @@ It send you an email which can be modified in the code as per your convenience.
 
 It records upto 25 keys in one email which can be increased as per the developers choice.
 
+It uses smtp(Simple mail transfer protocol) to send emails to the user.
+
 
 
 
