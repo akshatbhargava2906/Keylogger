@@ -13,4 +13,4 @@ It uses smtp(Simple mail transfer protocol) to send emails to the user.
 
 Install commands---pip install pynput
 
-Recommended Python V3.8.x (Will work on Python V3.9.x
+Recommended Python V3.8.x (Will work on Python V3.9.x)
